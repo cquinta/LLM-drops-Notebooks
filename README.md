@@ -1,2 +1,2 @@
-# PromptEngineeringNotebook
-Notebook para testar engenharia de prompt
+# LLM Drops Notebooks
+Notebooks utilizados no AWS-DROPS De LLM 2023
